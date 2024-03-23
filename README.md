@@ -28,7 +28,7 @@ The Solar Energy Prediction Project utilizes data from multiple sources, focusin
 
 **Data Sources:**
 - The primary data for solar power consumption and related features are sourced from publicly available datasets and proprietary data shared by partner organizations committed to advancing renewable energy research.
-- Weather data, including temperature and sunlight hours, is obtained from the OpenWeatherMap API and other meteorological institutions, ensuring accurate and timely environmental information.
+- Weather data, including temperature and sunlight hours, is obtained from the OpenWeatherMap API, ensuring accurate and timely environmental information.
 
 **File Descriptions:**
 - `SolarGeneration_Data.xlsx`: This comprehensive Excel file contains multiple sheets, each representing different aspects of solar power data and related variables.
