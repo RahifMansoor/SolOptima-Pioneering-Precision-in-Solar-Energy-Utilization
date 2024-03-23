@@ -12,8 +12,13 @@ To dive into our analysis and models, follow these steps to set up the project o
 - Jupyter Notebook or JupyterLab
 - Relevant Python packages: pandas, numpy, matplotlib, seaborn, keras, scikit-learn
 
-**Installation:**
+Navigate through the directory structure in the Jupyter interface to open and run the notebooks. They are designed to be run sequentially:
 
-1. **Clone the Repository:**
-   Open your terminal (for Mac/Linux) or CMD/PowerShell (for Windows) and run the following command to clone the project repository:
+1. `01_Data_Preparation_and_Analysis.ipynb` - For initial data loading, cleaning, and exploratory analysis.
+2. `02_Model_Development.ipynb` - Contains the model building, training, and evaluation process.
+
+#### Notebooks Summary
+
+- **Data Preparation and Analysis**: This notebook guides you through the data preparation steps, including cleaning and exploratory data analysis (EDA), setting the stage for effective model development.
+- **Model Development**: Focused on building and evaluating machine learning models to predict solar power consumption. This includes linear regression models and LSTM networks for time series forecasting.
 
