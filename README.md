@@ -14,8 +14,8 @@ To dive into our analysis and models, follow these steps to set up the project o
 
 Navigate through the directory structure in the Jupyter interface to open and run the notebooks. They are designed to be run sequentially:
 
-1. `01_Data_Preparation_and_Analysis.ipynb` - For initial data loading, cleaning, and exploratory analysis.
-2. `02_Model_Development.ipynb` - Contains the model building, training, and evaluation process.
+1. `Model_Power_Consumption.ipynb` - For initial data loading, cleaning, and exploratory analysis.
+2. `Predict_Power_Consumption.ipynb` - Contains the model building, training, and evaluation process.
 
 #### Notebooks Summary
 
